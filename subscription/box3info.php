@@ -36,18 +36,18 @@ session_start();
 </div>
 <table>
     <tr>
-     <td><img  src="box1.jpg" style="height: 500px; width: 700px;"></td>
+        <td><img  src="box3.jpg" style="height: 500px; width: 700px;"></td>
         <td><h1></h1></td>
     </tr>
 </table>
 <br>
 <table border="2px" style="text-align: center;">
 
-<tr style="align-content: center">
-        <td><h1>1 month</h1><h2>$20 + s/h</h2><button>Buy</button></td>
-        <td><h1>3 month</h1><h2>$50 + s/h</h2><button>Buy</button></td>
-        <td><h1>6 month</h1><h2>$80 + s/h</h2><button>Buy</button></td>
-        <td><h1>1 year</h1><h2>$130 + s/h</h2><button>Buy</button></td>
+    <tr>
+        <td><h1>1 month</h1><h2>$50 + s/h</h2><button>Buy</button></td>
+        <td><h1>3 month</h1><h2>$80 + s/h</h2><button>Buy</button></td>
+        <td><h1>6 month</h1><h2>$130 + s/h</h2><button>Buy</button></td>
+        <td><h1>1 year</h1><h2>$230 + s/h</h2><button>Buy</button></td>
 
     </tr>
 

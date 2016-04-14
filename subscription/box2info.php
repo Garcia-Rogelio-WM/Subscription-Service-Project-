@@ -41,7 +41,7 @@ session_start();
     </tr>
 </table>
 <br>
-<table border="2px">
+<table border="2px" style="text-align: center;">
 
     <tr>
         <td><h1>1 month</h1><h2>$50 + s/h</h2><button>Buy</button></td>
