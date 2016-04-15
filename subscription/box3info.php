@@ -44,10 +44,10 @@ session_start();
 <table border="2px" style="text-align: center;">
 
     <tr>
-        <td><h1>1 month</h1><h2>$50 + s/h</h2><button>Buy</button></td>
-        <td><h1>3 month</h1><h2>$80 + s/h</h2><button>Buy</button></td>
-        <td><h1>6 month</h1><h2>$130 + s/h</h2><button>Buy</button></td>
-        <td><h1>1 year</h1><h2>$230 + s/h</h2><button>Buy</button></td>
+        <td><h1>1 month</h1><h2>$100 + s/h</h2><button>Buy</button></td>
+        <td><h1>3 month</h1><h2>$270 + s/h</h2><button>Buy</button></td>
+        <td><h1>6 month</h1><h2>$400 + s/h</h2><button>Buy</button></td>
+        <td><h1>1 year</h1><h2>$700 + s/h</h2><button>Buy</button></td>
 
     </tr>
 

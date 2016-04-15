@@ -69,7 +69,7 @@
             <p>User name</p>
             <input type="text" name="username" required>
             <p>Password</p>
-            <input type="text" name="pass" required>
+            <input type="text" name="password" required>
             <br>
             <button type="submit" name="signup" value="1">Sign in</button>
             <br>

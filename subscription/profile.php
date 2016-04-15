@@ -11,8 +11,7 @@ session_start();
     <meta charset="UTF-8">
     <title>Random boxs</title>
 </head>
-<div style="background-image:url("image.jpg"); opacity:0.5;">
-<div style="opacity:1;">
+
 <body>
 <!-- Title -->
 <h1 style="text-align: center; font-size: 300%">Random Box Package</h1>
@@ -22,7 +21,7 @@ session_start();
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="#">All products</a></li>
-            <li><a href="profile.php"><?php
+            <li><a href="#"><?php
                     echo $_SESSION['uname'];
                     ?></a></li>
             <li><a href="signin.php" id="signin">
@@ -39,18 +38,10 @@ session_start();
     </nav>
 
 </div>
-<h1 style="text-align: center; font-size: 300%">Popular Deals</h1>
+<h1 style="text-align: center; font-size: 300%">Profile</h1>
+<h2>Welcome, <?php echo $_SESSION['uname'];?></h2>
 
-<table cellspacing="20">
-
-    <tr>
-        <td><a href="box1info.php"> <img  src="box1.jpg" style="height: 300px; width: 400px;"></a></td>
-        <td><a href="box2info.php"><img src="box2.jpg" style="height: 300px; width: 400px;"></a></td>
-        <td><a href="box3info.php"><img src="box3.jpg" style="height: 300px; width: 400px;"></a></td>
-    </tr>
-</table>
 
 </body>
-</div>
 
 </html>
